@@ -8,3 +8,5 @@ Fliperama produzido no FabLab do Instituto Mauá de Tecnologia juntamente com os
    Feito isso tivemos que acessar o sistema do recalbox atravez da rede, para isso conectamos ele na mesma rede que nosso computador, no menu de rede do propio recalbox pegamos o ip do mesmo, uma vez com ip acessamos ele atrvez do explorador de arquivos do windows , para isso basta digitar \\IPdoRecalBox, uma vez acessando o recalbox fomos em system nesta pasta acessamos o arquivo recalbox.conf e nele encontramos controller.gpio.enabled = 0, para podermos usar os botoes ligados no GPIO temos que alterar de 0 para 1.
    
    Para finalizar jogamos umas partidas de de Street Fighter. 
+
+   OBS: Ainda não finalizamos os acabamentos do projeto.
